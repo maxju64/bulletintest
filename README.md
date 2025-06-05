@@ -1,4 +1,4 @@
-# Social GPS - Location-Based Social Media MVP
+# The Bulletin - Location-Based Social Media MVP
 
 A cost-effective social media platform that incorporates GPS features, allowing users to share their locations and connect with others nearby.
 
@@ -27,7 +27,7 @@ social-gps/
 
 ### Prerequisites
 - Node.js (v16 or higher)
-- npm or yarn
+- npm
 - MongoDB Atlas account
 - Firebase account
 
